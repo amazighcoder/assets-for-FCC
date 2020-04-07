@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="556.635" height="189.135" viewBox="0 0 556.635 189.135">
+  <g id="Group_5" data-name="Group 5" transform="translate(-247.365 -141)">
+    <path id="Polygon_1" data-name="Polygon 1" d="M44,0,88,170H0Z" transform="translate(333 160)" fill="#c0c3c3"/>
+    <path id="Polygon_2" data-name="Polygon 2" d="M50.5,0,101,120H0Z" transform="translate(432.218 173.865) rotate(45)" fill="#808282"/>
+    <path id="Polygon_3" data-name="Polygon 3" d="M50.5,0,101,120H0Z" transform="translate(247.365 245.282) rotate(-45)" fill="#808282"/>
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="5" cy="5" r="5" transform="translate(271 188)" fill="#5d6363"/>
+    <circle id="Ellipse_2" data-name="Ellipse 2" cx="5" cy="5" r="5" transform="translate(372 141)" fill="#5d6363"/>
+    <circle id="Ellipse_3" data-name="Ellipse 3" cx="5" cy="5" r="5" transform="translate(468 188)" fill="#5d6363"/>
+    <text id="DUARA" transform="translate(479 282)" fill="#707070" font-size="90" font-family="Courier"><tspan x="0" y="0">DUARRA</tspan></text>
+  </g>
+</svg>
